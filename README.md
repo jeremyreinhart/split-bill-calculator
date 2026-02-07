@@ -36,4 +36,9 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Live Demo:**  
+https://split-bill-calculator-7ctk.vercel.app/
+
+![Home](./image/home.png)
+![Upload Receipt](./image/upload.png)
+![Tampilan Mobile](./image/mobile.png)
