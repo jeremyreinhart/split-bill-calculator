@@ -2,13 +2,14 @@
 
 Split Bill Calculator is a web application designed to simplify the process of splitting bills. Users simply take a photo of a food or shopping receipt, and the app will automatically extract a list of items and prices using OCR (Optical Character Recognition) technology and Gemini AI. Users can also edit or add items if the OCR result doesn't match the photographed receipt.
 
-## Tech Stack Used
+## Tech Stack
 
-Framework: Next.js 16
-Language: TypeScript
-Styling: Tailwind CSS
-OCR Engine: Tesseract.js
-AI: Gemini AI
+- **Framework:** Next.js 16
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **OCR Engine:** Tesseract.js
+- **AI:** Gemini AI
+- **Deployment:** Vercel
 
 ## Setup instructions
 
